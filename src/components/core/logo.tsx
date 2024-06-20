@@ -22,9 +22,9 @@ export function Logo({ color = 'dark', emblem, height = HEIGHT, width = WIDTH }:
   let url: string;
 
   if (emblem) {
-    url = color === 'light' ? '/assets/logo-emblem.svg' : '/assets/logo-emblem--dark.svg';
+    url = color === 'light' ? '/assets/logos/logo.png' : '/assets/logos/logo.png';
   } else {
-    url = color === 'light' ? '/assets/logo.svg' : '/assets/logo--dark.svg';
+    url = color === 'light' ? '/assets/logos/logo.png' : '/assets/logos/logo.png';
   }
 
   return <Box alt="logo" component="img" height={height} src={url} width={width} />;
@@ -50,7 +50,7 @@ export function DynamicLogo({
 
   return (
     <NoSsr fallback={<Box sx={{ height: `${height}px`, width: `${width}px` }} />}>
-      <Logo color={color} height={height} width={width} {...props} />
+      <Logo color={color} height={80} width={120} {...props} />
     </NoSsr>
   );
 }
