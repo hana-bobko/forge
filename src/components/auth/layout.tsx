@@ -44,7 +44,7 @@ export function Layout({ children }: LayoutProps): React.JSX.Element {
         <Stack spacing={3}>
           <Stack spacing={1}>
             <Typography color="inherit" sx={{ fontSize: '24px', lineHeight: '32px', textAlign: 'center' }} variant="h1">
-              Bem vindo ao{' '}
+              Wellcome to{' '}
               <Box component="span" sx={{ color: '#9b05ff' }}>
                 Forge System
               </Box>
