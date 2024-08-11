@@ -1,6 +1,6 @@
-## [Forge - React](https://github.com/hana-bobko/forge/edit/main/README.md)
+## [Forge - Gym Managment](https://github.com/hana-bobko/forge/edit/main/README.md)
 
-[![Forge - React] <img width="1426" alt="Captura de Tela 2024-06-20 às 13 28 45" src="https://github.com/hana-bobko/forge/assets/137847937/b6309d44-672a-4305-91c5-ef2cf4d656fc">]([https://material-kit-react.devias.io/](https://github.com/hana-bobko/forge/edit/main/README.md))
+[<img width="1426" alt="Captura de Tela 2024-06-20 às 13 28 45" src="https://github.com/hana-bobko/forge/assets/137847937/b6309d44-672a-4305-91c5-ef2cf4d656fc">]([https://material-kit-react.devias.io/](https://github.com/hana-bobko/forge/edit/main/README.md))
 
 ## Páginas 
 
